@@ -34,5 +34,5 @@ npm run build   # production build
 - Single workout: `https://api.abcz.workers.dev/api/fitlog/:id`
 
 ## Live Links
-- Live Site: (add after deploying)
-- GitHub Repo: (add your repo link)
+- Live Site: https://assignment-06-ph.vercel.app/
+- GitHub Repo: https://github.com/meefthah-art/Assignment-06-PH.git
